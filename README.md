@@ -9,8 +9,8 @@ El objetivo es que los usuarios se sientan libres de aportar sus ideas o experie
 
 GeekLab tiene sus orígenes en el foro de Xiaomi España, [Mi Community](https://c.mi.com/es/forum-2814-1.html). Los primeros hilos han tenido como objetivo hacer pruebas extremas fuera del ámbito real de un usuario común.
 
-Los datos obtenidos han ayudado a diferentes usuarios a decidirse a usar un terminal según las necesidades personales y no promovidos por opiniones vagas sin llegar a especificar factores que algunos usuarios demandan.
+Los datos obtenidos han ayudado a diferentes usuarios a decidirse a usar un terminal según las necesidades personales y no promovidos por opiniones vagas, sin llegar a especificar factores que algunos usuarios demandan.
 
-Por ello GeekLab, recibe una aplicación donde se ofrecen herramientas para probar software o el rendimiento de hardware.
+Por ello, GeekLab recibe una aplicación donde se ofrecen herramientas para probar software o el rendimiento de hardware.
 
 Para más información, accede al siguiente enlace: https://davidcreator.github.io/GeekLab/
