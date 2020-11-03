@@ -5,7 +5,7 @@ La aplicación es de código abierto y se puede modificar, pero no distribuir. C
 
 El objetivo es que los usuarios se sientan libres de aportar sus ideas o experiencias para crear la herramienta perfecta para probar dispositivos de la marca.
 
-##Inicios
+## Inicios
 
 GeekLab tiene sus orígenes en el foro de Xiaomi España, Mi Community. Los primeros hilos han tenido como objetivo hacer pruebas extremas fuera del ámbito real de un usuario común.
 
